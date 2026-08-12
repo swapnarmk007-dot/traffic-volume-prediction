@@ -178,7 +178,7 @@ To deploy this project for free on **Streamlit Community Cloud**:
 4. **Branch & File**: Select branch `main` and set `Main file path` to `app.py`.
 5. **Deploy**: Click **"Deploy!"**.
 
-**Live Demo URL:** `[Add deployed Streamlit URL here]`
+**Live Demo URL:** `[https://traffic-volume-prediction-mikgckbccwaru6yvzkptuk.streamlit.app/]`
 
 ---
 
