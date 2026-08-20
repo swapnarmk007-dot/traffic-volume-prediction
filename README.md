@@ -7,7 +7,7 @@ An end-to-end Machine Learning web application that predicts hourly urban **traf
 ## 👨‍💻 Developer Information
 
 * **Developer Name:** Swapna V
-* **Role:** ML Engineer
+* **Role:**Agentic AI Engineer
 * **Company:** IPEC Solutions
 * **Project Name:** Traffic Volume Prediction System
 * **Primary Objective:** Real-time urban traffic modeling, congestion forecasting, and smart city traffic management optimization.
@@ -193,6 +193,6 @@ To deploy this project for free on **Streamlit Community Cloud**:
 ## 👨‍💻 Author
 
 * **Name:** Swapna V
-* **Role:** ML Engineer
+* **Role:**Agentic AI Engineer
 * **Company:** IPEC Solutions
 * **Project:** Traffic Volume Prediction System
